@@ -1,0 +1,59 @@
+body {
+    height: 100%;
+    width: 100%;
+}
+main {
+    margin: 4%;
+    
+}
+ul {
+    list-style-type: none;
+    
+    
+}
+
+img {
+    color: #002E58;
+}
+li, p {
+    font-size: 1.5em;
+    font-weight: bold;
+    
+}
+li {
+    width: 100%;
+}
+.right-li {
+    float: right;
+}
+
+.fas, .far {
+  
+    color: #002E58;
+    padding-left: 0;
+    padding-right: 10px;
+}
+.fa-circle {
+    font-size: 0.7rem;
+}
+#left {
+    background-color: #002E58;
+    width: 20%;
+    height: 1200px;
+}
+#right {
+    
+    width: 80%;
+    height: 1000px;
+    
+    
+}
+ #left, #right {
+    float: left;
+}
+
+
+#objective, #personal-info-list  {
+
+  padding-left: 20px;
+}
